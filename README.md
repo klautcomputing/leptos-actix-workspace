@@ -17,7 +17,7 @@ cargo install cargo-leptos
 
 Then run
 ```bash
-cargo leptos new --git https://github.com/Gentle/start-actix-workspace
+cargo leptos new --git https://github.com/klautcomputing/leptos-actix-workspace
 ```
 
 to generate a new project template.
